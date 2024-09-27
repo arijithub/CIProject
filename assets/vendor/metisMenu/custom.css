@@ -1,0 +1,10 @@
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 14px 61px;
+    color: green;
+}
+.nav>li>a i {
+	color: blue;
+	font-size: 20px;
+}
